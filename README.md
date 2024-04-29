@@ -1,6 +1,8 @@
 # Reaper_libSwell_Editor
 edit libSwell.colortheme on Linux
 
+Note: leave font face and font size in the first and second row
+
 ## Requirements
 - python3
 - python3-gi
