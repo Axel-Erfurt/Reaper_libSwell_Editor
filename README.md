@@ -15,6 +15,7 @@ opens the *libSwell.colortheme* from the default path */home/username/.config/RE
 
 opens  the file with the specified path
 
+- color preview on selecting a row that contains a color
 - change the font with the FontSelector Button
 - change integer values with the SpinBox Buttons
 - change colors by double-clicking the row, this opens a color selection window
